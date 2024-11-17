@@ -33,10 +33,10 @@ if (isset($_SESSION['admin_id']) &&
                     <i class="fa fa-book fs-1" aria-hidden="true"></i><br>
                     Course Registration
                 </a>
-                <a href="message.php" class="col btn btn-dark m-2 py-3">
+                <!-- <a href="message.php" class="col btn btn-dark m-2 py-3">
                     <i class="fa fa-envelope fs-1" aria-hidden="true"></i><br>
                     Message
-                </a>
+                </a> -->
                 <a href="settings.php" class="col btn btn-dark m-2 py-3">
                     <i class="fa fa-cogs fs-1" aria-hidden="true"></i><br>
                     Settings

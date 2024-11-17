@@ -29,9 +29,9 @@
         <li class="nav-item">
           <a class="nav-link" href="add_fee.php">Fees</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="message.php">Message</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="settings.php">Settings</a>
         </li>
