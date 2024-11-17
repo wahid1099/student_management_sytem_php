@@ -40,8 +40,8 @@ This project is a University Management System with three user panels: Admin, Te
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/coderzaman/Student-Management-System.git
-   cd Student-Management-System.git
+   git clone https://github.com/wahid1099/student_management_sytem_php
+   cd student_management_sytem_php
    ```
 2. **Import the Database**
 
@@ -56,7 +56,7 @@ This project is a University Management System with three user panels: Admin, Te
    $sName = "localhost";
    $uName = "root";
    $pass  = "";
-   $db_name = "sms_db";
+   $db_name = "your_database_name";
    ```
 
 4. **Start the Web Server**
@@ -96,4 +96,4 @@ Contributions are welcome! Please create a pull request with a detailed descript
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [coder.wahidahmed890@gmail.com].
+For any inquiries or feedback, please contact us at [wahidahmed890@gmail.com].
