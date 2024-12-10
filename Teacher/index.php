@@ -80,6 +80,33 @@ if (isset($_SESSION['teacher_id']) &&
                             </div>
                         </a>
                     </div>
+
+
+                    <div class="col-6 pt-3">
+                        <a href="Attendance.php" style="text-decoration:none;"
+                            class="link-dark link-underline-dark">
+                            <div class="card bg-c-pink order-card bg-dark text-white" style="border-radius: 10px; ">
+                                <div class="card-block pt-5 py-5 text-center">
+                                    <i class="fa-solid fa-square-poll-vertical fs-1 mb-1" aria-hidden="true"></i><br>
+                                    <h5>ADD Attendance</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-6 pt-3">
+                        <a href="Attandace_table.php" style="text-decoration:none;"
+                            class="link-dark link-underline-dark">
+                            <div class="card bg-c-pink order-card bg-dark text-white" style="border-radius: 10px; ">
+                                <div class="card-block pt-5 py-5 text-center">
+                                    <i class="fa-solid fa-square-poll-vertical fs-1 mb-1" aria-hidden="true"></i><br>
+                                    <h5>View Attendance</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                   
                     <div class="col-6 mt-4">
                         <a href="pass.php" style="text-decoration:none;" class="link-dark link-underline-dark">
                             <div class="card bg-c-pink order-card bg-info bg-dark text-white"
